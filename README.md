@@ -22,7 +22,7 @@ I'm a passionate software developer who enjoys building scalable backend systems
 - Async messaging with Kafka & RabbitMQ
 - Performance profiling in Go
 
-🌐 Site: [tubstory.com](https://tubstory.com)  
-📫 Reach me at: tub.me@tubstory.com
+🌐 Site: [tubb.me](https://tubb.me)  
+📫 Reach me at: hello@tubb.me
 
 ---
